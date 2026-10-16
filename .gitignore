@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+# Environment files (never commit real passwords)
+.env
+*.env.local
+# Node
+node_modules/
+dist/
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
